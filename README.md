@@ -13,12 +13,10 @@ The analysis decisions made strongly depend on research and Machine Learning Neu
 <br>
 This project has two parts 
 <br>
-1) Gathering Data
-<br>
-2) performing Analysis
-<br>
+1) Gathering Data<br>
+2) performing Analysis<br>
 3) comparing different models (coming soon)
-<br>
+
 
 <h4> Data Gathering </h4>
 Data for the analysis is got from poloniex api and the ipython notebook for that is in bitcoin get data
