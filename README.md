@@ -5,8 +5,7 @@ Bitcoin has been the talk of the town for a very long time and people are always
 We are using real-time data and neural networks to achieve best results
 <br>
 ## Tools Used:
-1) Ipython Notebook jupyter
-<br>
+1) Ipython Notebook jupyter<br>
 2) Keras , Tensorflow
 
 ## Resources used:
@@ -39,7 +38,7 @@ Data we got was in json format so shapped it into a dataframe and stored in csv
  <br>
  Optimisier used is ADAM and since its regression analysis the loss function used is MSE
 
-<h4> Citations </h4>
+## Citations 
 https://www.kaggle.com/kentata/rnn-for-predicting-closing-price-using-keras
 <br>
 https://www.kaggle.com/kentata/time-series-data-exploration
